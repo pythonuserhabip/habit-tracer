@@ -2,9 +2,9 @@ import requests
 from datetime import datetime
 
 
-USERNAME = "rafettepe"
-TOKEN = "dgjdgkdlg6154fd"
-GRAPH_ID = "graph12"
+USERNAME = "YOUR USER NAME"
+TOKEN = "YOUR TOKEN"
+GRAPH_ID = "YOUR GRAPH ID"
 
 
 pixela_endpoint = "https://pixe.la/v1/users"
